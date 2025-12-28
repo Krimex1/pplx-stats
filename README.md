@@ -147,7 +147,6 @@ pplx-stats/
 
 **Krimex1**
 - GitHub: [@Krimex1](https://github.com/Krimex1)
-- Website: [Magic of AI](http://d1.litehosting.su:25603/)
 
 ## 🌟 Поддержка проекта
 
